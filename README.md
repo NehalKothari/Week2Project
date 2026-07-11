@@ -120,13 +120,13 @@ The following metrics were used:
 
 ### Best Model
 
-🏆 **Random Forest**
+ **Random Forest**
 
 Random Forest achieved the best balance between Precision and Recall while maintaining an excellent ROC-AUC score.
 
 ---
 
-# 📉 Visualizations
+# Visualizations
 
 The project includes:
 
@@ -137,7 +137,7 @@ The project includes:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Project2
@@ -155,9 +155,8 @@ Project2
     └── Credit_Card_Fraud_Detection_Report.docx
 ```
 
----
 
-# ⚙️ Installation
+# Installation
 
 Clone the repository
 
@@ -179,15 +178,14 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the Project
+# Run the Project
 
 ```bash
 python main.py
 ```
 
----
 
-# 📦 Required Libraries
+# Required Libraries
 
 ```text
 pandas
@@ -199,9 +197,8 @@ imbalanced-learn
 joblib
 ```
 
----
 
-# 📌 Future Improvements
+# Future Improvements
 
 - XGBoost
 - LightGBM
@@ -212,18 +209,16 @@ joblib
 - Streamlit Dashboard
 - Explainable AI (SHAP/LIME)
 
----
 
-# 📚 References
+# References
 
 1. Kaggle Credit Card Fraud Detection Dataset
 2. Scikit-learn Documentation
 3. Imbalanced-learn Documentation
 4. Python Documentation
 
----
 
-# 👨‍💻 Author
+# Author
 
 **Nehal Kothari**
 
@@ -231,6 +226,4 @@ B.Tech Computer Science (Artificial Intelligence)
 
 Machine Learning | Data Science | Artificial Intelligence Enthusiast
 
----
 
-# ⭐ If you found this project useful, don't forget to give it a star!
