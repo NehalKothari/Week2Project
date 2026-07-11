@@ -152,7 +152,7 @@ Project2
 │   ├── ROC_curve.png
 │
 └── report
-    └── Internship_Report.docx
+    └── Credit_Card_Fraud_Detection_Report.docx
 ```
 
 ---
